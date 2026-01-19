@@ -41,3 +41,10 @@ buckets
 
 logs/*
 !logs/sample-console-logs/
+
+# claude
+.claude/
+.prompt-*.md
+.prompt.md
+prompt-*.md
+prompt.md
